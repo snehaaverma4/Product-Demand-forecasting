@@ -42,3 +42,5 @@ A machine learning-powered web app that predicts future product demand based on 
 | Market Trend Score     | Number (0–1)| Score indicating market favorability |
 
 ---
+## Link to the webapp -
+  "https://794ef9b2566b262063.gradio.live/"
